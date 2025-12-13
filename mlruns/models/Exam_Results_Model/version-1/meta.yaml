@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1730538244214
+current_stage: Staging
+description: ''
+last_updated_timestamp: 1730538244219
+name: Exam_Results_Model
+run_id: 6b74d3c2385746fa9a7de8d09cd3c889
+run_link: ''
+source: mlflow-artifacts:/933909214279406056/6b74d3c2385746fa9a7de8d09cd3c889/artifacts/model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/933909214279406056/6b74d3c2385746fa9a7de8d09cd3c889/artifacts/model
+user_id: null
+version: 1

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/933909214279406056/e2e67edf42724f2d95bf1dc1b5ec9cf4/artifacts
+end_time: 1730485654207
+entry_point_name: ''
+experiment_id: '933909214279406056'
+lifecycle_stage: active
+run_id: e2e67edf42724f2d95bf1dc1b5ec9cf4
+run_name: big-stag-164
+run_uuid: e2e67edf42724f2d95bf1dc1b5ec9cf4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730485651024
+status: 3
+tags: []
+user_id: laczkovits

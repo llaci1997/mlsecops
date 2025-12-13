@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1730486583299
+current_stage: Staging
+description: ''
+last_updated_timestamp: 1730486583306
+name: xgb_model_20241101_194303
+run_id: 6c7c38a8c1bc40ea8b2c8cf73f73d275
+run_link: ''
+source: mlflow-artifacts:/933909214279406056/6c7c38a8c1bc40ea8b2c8cf73f73d275/artifacts/model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/933909214279406056/6c7c38a8c1bc40ea8b2c8cf73f73d275/artifacts/model
+user_id: null
+version: 1

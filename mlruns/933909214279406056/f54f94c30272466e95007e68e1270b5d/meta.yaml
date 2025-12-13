@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/933909214279406056/f54f94c30272466e95007e68e1270b5d/artifacts
+end_time: 1730485628489
+entry_point_name: ''
+experiment_id: '933909214279406056'
+lifecycle_stage: active
+run_id: f54f94c30272466e95007e68e1270b5d
+run_name: stately-hen-386
+run_uuid: f54f94c30272466e95007e68e1270b5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730485625147
+status: 3
+tags: []
+user_id: laczkovits

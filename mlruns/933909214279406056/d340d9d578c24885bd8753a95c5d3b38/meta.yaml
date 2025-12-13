@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/933909214279406056/d340d9d578c24885bd8753a95c5d3b38/artifacts
+end_time: 1730497027103
+entry_point_name: ''
+experiment_id: '933909214279406056'
+lifecycle_stage: active
+run_id: d340d9d578c24885bd8753a95c5d3b38
+run_name: inference_20241101_223706
+run_uuid: d340d9d578c24885bd8753a95c5d3b38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730497026963
+status: 3
+tags: []
+user_id: laczkovits
