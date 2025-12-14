@@ -12,7 +12,7 @@ from MLModel import MLModel
 
 def test_prediction_accuracy():
     obj_mlmodel = MLModel()  
-    data_path = 'data/exam_results_train.csv'
+    data_path = 'pipelines_with_mlflow_Docker\data\exam_results_train.csv'
     df = pd.read_csv(data_path)
 
     # Training pipeline
